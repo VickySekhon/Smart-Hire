@@ -1,4 +1,4 @@
-# 🚀 SmartHire - README
+# 🤓👔 SmartHire
 
 ## 📌 Project Description
 **SmartHire** is an AI-powered interview feedback platform that helps candidates improve their video interview skills. It uses machine learning to analyze facial expressions, detect filler words, transcribe speech, and generate real-time feedback scores.
